@@ -18,14 +18,6 @@ body   {
   background-size: 100% 100%;
   
 }
-p {
-  color:burlywood
-  }
-
-  li {
-    color:burlywood
-  }
-
-  h3{
-    color:burlywood
+p, li, h3 {
+  color:burlywood;
   }
