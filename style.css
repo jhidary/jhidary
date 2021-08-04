@@ -11,11 +11,22 @@ padding: 1%;
 }
 
 body   {
-  background-image: url(https://i.pinimg.com/originals/b8/1c/72/b81c7288bc633ffacf22f900036222f3.jpg);
+  background-image: url(https://a.espncdn.com/photo/2021/0406/mlb_unwritten_rules1_16x9_608x342.jpg);
   background-repeat: no-repeat;
   background-size: 110% 110%;
+  font-family: tourney;
   
 }
-p, li, h3 {
+p, li, h3, ol {
   color:burlywood;
+  background-color:brown;
+  background-size: 250px;
+  backgrond-repeat: no-repeat;
+  width: 200px;
   }
+
+img {
+  box-shadow: 5px 15px black;
+  border-radius: 90%;
+
+}
