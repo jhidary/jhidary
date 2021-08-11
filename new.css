@@ -53,8 +53,9 @@ color:white;
 
 .degrom{
   background: url(degrom.jpg);
-    background-size: 175% 250%;
+    background-size: 110% 500%;
       background-repeat: no-repeat;
+      color: white
 }
 
 
