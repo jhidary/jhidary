@@ -35,13 +35,26 @@ body {
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url('jav.jpg');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+
   padding-top: 6%;
   padding-bottom: 6%;
   padding-left: 5%;
   color: lightgrey;
   font-family: 'Monofett', cursive;
   font-size: 3rem;
+}
+
+.mets {
+background: url(mets.jpg);
+background-repeat: no-repeat;
+background-size:110% 190%; 
+color:white;
+}
+
+.degrom{
+  background: url(degrom.jpg);
+    background-size: 175% 250%;
+      background-repeat: no-repeat;
 }
 
 
